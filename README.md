@@ -7,7 +7,7 @@
 
 *Hackers don't break in, they log in*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58C688&center=true&vCenter=true&width=435&lines=58c688a0f443e3a22ced922e51ea0ba73f0c4738670a926812e8314b236f8fe7" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58C688&center=true&vCenter=true&width=1000&lines=abf5dacd019d2229174f1daa9e62852554ab1b955fe6ae6bbbb214bab611f6f5" />
 
 </div>
 
