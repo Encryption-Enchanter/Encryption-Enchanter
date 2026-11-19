@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](banner.webp)
+![Banner](banner.gif)
 <br>
 
 ### Cisco Certified | Cybersecurity | Ethical Hacker
