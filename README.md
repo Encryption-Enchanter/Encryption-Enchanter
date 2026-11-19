@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:58c688&height=180&section=header&text=Petcu%20Radu%20Valentin&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cisco%20Certified%20%7C%20Cybersecurity%20%7C%20Ethical%20Hacker&descAlignY=60&descAlign=50" />
+![Banner](banner.webp)
 <br>
 
 ### Cisco Certified | Cybersecurity | Ethical Hacker
